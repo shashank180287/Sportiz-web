@@ -1,0 +1,38 @@
+{
+	"menu_items" : [
+		{
+			"name" : "Sport",
+			"icon" : "run.png",
+			"value" : "sport" ,
+			"childs" : [
+				{
+					"name" : "Tennis",
+					"icon" : "tennis.png",
+					"value" : "tennis"
+				},
+				{
+					"name" : "Football",
+					"icon" : "football.png",
+					"value" : "football"
+				}
+			]
+		},
+		{
+			"name" : "Car",
+			"icon" : "car.png",
+			"value" : "car" ,
+			"childs" : [
+				{
+					"name" : "Used Car",
+					"icon" : "used_car.png",
+					"value" : "used_car"
+				}
+			]
+		},
+		{
+			"name" : "Service",
+			"icon" : "service.png",
+			"value" : "service" 
+		}
+	]
+}
